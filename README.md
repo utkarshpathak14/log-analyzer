@@ -42,10 +42,10 @@ npm install
 npm run dev
 ```
 
-
+```
 Project Structure
 log-file-analyzer/
 │── backend/       # Express server (log processing)
 │── frontend/      # React app (UI & file upload)
 │── README.md
-
+```
