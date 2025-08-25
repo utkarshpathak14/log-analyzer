@@ -28,16 +28,19 @@ git clone https://github.com/your-username/log-file-analyzer.git
 cd log-file-analyzer
 ```
 
+```bash
 Backend Setup
 cd backend
 npm install
 npm run dev
+```
 
-
+```bash
 Frontend Setup
 cd frontend
 npm install
 npm run dev
+```
 
 
 Project Structure
